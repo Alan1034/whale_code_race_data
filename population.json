@@ -1,0 +1,1356 @@
+{
+  "cityPopulation":[
+    {
+      "city": "重庆市",
+      "population": "2884.622"
+    },
+    {
+      "city": "上海市",
+      "population": "2301.913"
+    },
+    {
+      "city": "北京市",
+      "population": "1961.244"
+    },
+    {
+      "city": "成都市",
+      "population": "1404.765"
+    },
+    {
+      "city": "天津市",
+      "population": "1293.826"
+    },
+    {
+      "city": "广州市",
+      "population": "1270.087"
+    },
+    {
+      "city": "保定市",
+      "population": "1119.448"
+    },
+    {
+      "city": "哈尔滨市",
+      "population": "1063.69"
+    },
+    {
+      "city": "苏州市",
+      "population": "1046.610"
+    },
+    {
+      "city": "深圳市",
+      "population": "1035.7911"
+    },
+    {
+      "city": "南阳市",
+      "population": "1026.312"
+    },
+    {
+      "city": "石家庄市",
+      "population": "1016.3813"
+    },
+    {
+      "city": "临沂市",
+      "population": "1003.9414"
+    },
+    {
+      "city": "武汉市",
+      "population": "978.5415"
+    },
+    {
+      "city": "邯郸市",
+      "population": "917.4716"
+    },
+    {
+      "city": "温州市",
+      "population": "912.2117"
+    },
+    {
+      "city": "潍坊市",
+      "population": "908.6218"
+    },
+    {
+      "city": "周口市",
+      "population": "895.3219"
+    },
+    {
+      "city": "青岛市",
+      "population": "871.5120"
+    },
+    {
+      "city": "杭州市",
+      "population": "870.0421"
+    },
+    {
+      "city": "郑州市",
+      "population": "862.6522"
+    },
+    {
+      "city": "徐州市",
+      "population": "858.0523"
+    },
+    {
+      "city": "西安市",
+      "population": "846.7824"
+    },
+    {
+      "city": "赣州市",
+      "population": "836.8425"
+    },
+    {
+      "city": "菏泽市",
+      "population": "828.7826"
+    },
+    {
+      "city": "东莞市",
+      "population": "822.0227"
+    },
+    {
+      "city": "泉州市",
+      "population": "812.8528"
+    },
+    {
+      "city": "沈阳市",
+      "population": "810.6229"
+    },
+    {
+      "city": "济宁市",
+      "population": "808.1930"
+    },
+    {
+      "city": "南京市",
+      "population": "800.4731"
+    },
+    {
+      "city": "长春市",
+      "population": "767.7132"
+    },
+    {
+      "city": "宁波市",
+      "population": "760.5733"
+    },
+    {
+      "city": "阜阳市",
+      "population": "760.34"
+    },
+    {
+      "city": "唐山市",
+      "population": "757.7335"
+    },
+    {
+      "city": "商丘市",
+      "population": "736.2536"
+    },
+    {
+      "city": "南通市",
+      "population": "728.2837"
+    },
+    {
+      "city": "盐城市",
+      "population": "726.0238"
+    },
+    {
+      "city": "驻马店市",
+      "population": "723.0739"
+    },
+    {
+      "city": "佛山市",
+      "population": "719.4340"
+    },
+    {
+      "city": "衡阳市",
+      "population": "714.1541"
+    },
+    {
+      "city": "沧州市",
+      "population": "713.4142"
+    },
+    {
+      "city": "福州市",
+      "population": "711.5443"
+    },
+    {
+      "city": "邢台市",
+      "population": "710.4144"
+    },
+    {
+      "city": "邵阳市",
+      "population": "707.1845"
+    },
+    {
+      "city": "长沙市",
+      "population": "704.4146"
+    },
+    {
+      "city": "湛江市",
+      "population": "699.3347"
+    },
+    {
+      "city": "烟台市",
+      "population": "696.8248"
+    },
+    {
+      "city": "济南市",
+      "population": "681.449"
+    },
+    {
+      "city": "大连市",
+      "population": "669.0450"
+    },
+    {
+      "city": "南宁市",
+      "population": "666.1651"
+    },
+    {
+      "city": "上饶市",
+      "population": "657.9752"
+    },
+    {
+      "city": "洛阳市",
+      "population": "654.9553"
+    },
+    {
+      "city": "毕节地区",
+      "population": "653.6454"
+    },
+    {
+      "city": "昆明市",
+      "population": "643.255"
+    },
+    {
+      "city": "无锡市",
+      "population": "637.2656"
+    },
+    {
+      "city": "南充市",
+      "population": "627.8657"
+    },
+    {
+      "city": "黄冈市",
+      "population": "616.2158"
+    },
+    {
+      "city": "遵义市",
+      "population": "612.759"
+    },
+    {
+      "city": "信阳市",
+      "population": "610.8760"
+    },
+    {
+      "city": "台州市",
+      "population": "596.8861"
+    },
+    {
+      "city": "揭阳市",
+      "population": "587.762"
+    },
+    {
+      "city": "曲靖市",
+      "population": "585.563"
+    },
+    {
+      "city": "茂名市",
+      "population": "581.7864"
+    },
+    {
+      "city": "聊城市",
+      "population": "578.9965"
+    },
+    {
+      "city": "常德市",
+      "population": "571.7266"
+    },
+    {
+      "city": "新乡市",
+      "population": "570.7867"
+    },
+    {
+      "city": "合肥市",
+      "population": "570.268"
+    },
+    {
+      "city": "荆州市",
+      "population": "569.1769"
+    },
+    {
+      "city": "六安市",
+      "population": "561.270"
+    },
+    {
+      "city": "德州市",
+      "population": "556.8271"
+    },
+    {
+      "city": "襄阳市",
+      "population": "550.0372"
+    },
+    {
+      "city": "泰安市",
+      "population": "549.4273"
+    },
+    {
+      "city": "玉林市",
+      "population": "548.7474"
+    },
+    {
+      "city": "岳阳市",
+      "population": "547.7975"
+    },
+    {
+      "city": "达州市",
+      "population": "546.8176"
+    },
+    {
+      "city": "宜春市",
+      "population": "541.9677"
+    },
+    {
+      "city": "绥化市",
+      "population": "541.6478"
+    },
+    {
+      "city": "汕头市",
+      "population": "539.179"
+    },
+    {
+      "city": "齐齐哈尔市",
+      "population": "536.780"
+    },
+    {
+      "city": "金华市",
+      "population": "536.1681"
+    },
+    {
+      "city": "宿州市",
+      "population": "535.382"
+    },
+    {
+      "city": "安庆市",
+      "population": "531.183"
+    },
+    {
+      "city": "渭南市",
+      "population": "528.6184"
+    },
+    {
+      "city": "昭通市",
+      "population": "521.385"
+    },
+    {
+      "city": "永州市",
+      "population": "518.0286"
+    },
+    {
+      "city": "安阳市",
+      "population": "517.2887"
+    },
+    {
+      "city": "运城市",
+      "population": "513.4888"
+    },
+    {
+      "city": "南昌市",
+      "population": "504.2689"
+    },
+    {
+      "city": "绍兴市",
+      "population": "491.2290"
+    },
+    {
+      "city": "平顶山市",
+      "population": "490.4491"
+    },
+    {
+      "city": "咸阳市",
+      "population": "489.4892"
+    },
+    {
+      "city": "亳州市",
+      "population": "485.193"
+    },
+    {
+      "city": "孝感市",
+      "population": "481.4594"
+    },
+    {
+      "city": "吉安市",
+      "population": "481.0395"
+    },
+    {
+      "city": "漳州市",
+      "population": "481.96"
+    },
+    {
+      "city": "淮安市",
+      "population": "479.9997"
+    },
+    {
+      "city": "桂林市",
+      "population": "474.898"
+    },
+    {
+      "city": "怀化市",
+      "population": "474.1999"
+    },
+    {
+      "city": "九江市",
+      "population": "472.88100"
+    },
+    {
+      "city": "宿迁市",
+      "population": "471.56101"
+    },
+    {
+      "city": "开封市",
+      "population": "467.62102"
+    },
+    {
+      "city": "泰州市",
+      "population": "461.86103"
+    },
+    {
+      "city": "绵阳市",
+      "population": "461.39104"
+    },
+    {
+      "city": "惠州市",
+      "population": "459.7105"
+    },
+    {
+      "city": "常州市",
+      "population": "459.2106"
+    },
+    {
+      "city": "郴州市",
+      "population": "458.18107"
+    },
+    {
+      "city": "凉山州",
+      "population": "453.28108"
+    },
+    {
+      "city": "淄博市",
+      "population": "453.06109"
+    },
+    {
+      "city": "嘉兴市",
+      "population": "450.17110"
+    },
+    {
+      "city": "红河州",
+      "population": "450.1111"
+    },
+    {
+      "city": "宜宾市",
+      "population": "447.2112"
+    },
+    {
+      "city": "扬州市",
+      "population": "445.98113"
+    },
+    {
+      "city": "江门市",
+      "population": "444.89114"
+    },
+    {
+      "city": "吉林市",
+      "population": "441.47115"
+    },
+    {
+      "city": "连云港市",
+      "population": "439.39116"
+    },
+    {
+      "city": "廊坊市",
+      "population": "435.88117"
+    },
+    {
+      "city": "张家口市",
+      "population": "434.55118"
+    },
+    {
+      "city": "赤峰市",
+      "population": "434.12119"
+    },
+    {
+      "city": "衡水市",
+      "population": "434.08120"
+    },
+    {
+      "city": "贵阳市",
+      "population": "432.46121"
+    },
+    {
+      "city": "临汾市",
+      "population": "431.66122"
+    },
+    {
+      "city": "益阳市",
+      "population": "431.31123"
+    },
+    {
+      "city": "许昌市",
+      "population": "430.72124"
+    },
+    {
+      "city": "梅州市",
+      "population": "424.01125"
+    },
+    {
+      "city": "泸州市",
+      "population": "421.84126"
+    },
+    {
+      "city": "太原市",
+      "population": "420.16127"
+    },
+    {
+      "city": "贵港市",
+      "population": "411.88128"
+    },
+    {
+      "city": "宜昌市",
+      "population": "405.97129"
+    },
+    {
+      "city": "喀什地区",
+      "population": "397.94130"
+    },
+    {
+      "city": "滁州市",
+      "population": "393.8131"
+    },
+    {
+      "city": "肇庆市",
+      "population": "391.81132"
+    },
+    {
+      "city": "抚州市",
+      "population": "391.23133"
+    },
+    {
+      "city": "巢湖市",
+      "population": "387.3134"
+    },
+    {
+      "city": "株洲市",
+      "population": "385.56135"
+    },
+    {
+      "city": "娄底市",
+      "population": "378.56136"
+    },
+    {
+      "city": "柳州市",
+      "population": "375.87137"
+    },
+    {
+      "city": "湘潭市",
+      "population": "374.86138"
+    },
+    {
+      "city": "滨州市",
+      "population": "374.85139"
+    },
+    {
+      "city": "枣庄市",
+      "population": "372.93140"
+    },
+    {
+      "city": "吕梁市",
+      "population": "372.71141"
+    },
+    {
+      "city": "宝鸡市",
+      "population": "371.67142"
+    },
+    {
+      "city": "内江市",
+      "population": "370.28143"
+    },
+    {
+      "city": "清远市",
+      "population": "369.84144"
+    },
+    {
+      "city": "资阳市",
+      "population": "366.51145"
+    },
+    {
+      "city": "鞍山市",
+      "population": "364.59146"
+    },
+    {
+      "city": "兰州市",
+      "population": "361.62147"
+    },
+    {
+      "city": "德阳市",
+      "population": "361.58148"
+    },
+    {
+      "city": "濮阳市",
+      "population": "359.85149"
+    },
+    {
+      "city": "焦作市",
+      "population": "353.99150"
+    },
+    {
+      "city": "厦门市",
+      "population": "353.13151"
+    },
+    {
+      "city": "文山州",
+      "population": "351.8152"
+    },
+    {
+      "city": "黔东南州",
+      "population": "348.06153"
+    },
+    {
+      "city": "承德市",
+      "population": "347.32154"
+    },
+    {
+      "city": "百色市",
+      "population": "346.68155"
+    },
+    {
+      "city": "大理州",
+      "population": "345.6156"
+    },
+    {
+      "city": "汉中市",
+      "population": "341.62157"
+    },
+    {
+      "city": "四平市",
+      "population": "338.63158"
+    },
+    {
+      "city": "河池市",
+      "population": "336.92159"
+    },
+    {
+      "city": "榆林市",
+      "population": "335.14160"
+    },
+    {
+      "city": "十堰市",
+      "population": "334.08161"
+    },
+    {
+      "city": "长治市",
+      "population": "333.46162"
+    },
+    {
+      "city": "大同市",
+      "population": "331.81163"
+    },
+    {
+      "city": "恩施州",
+      "population": "329.03164"
+    },
+    {
+      "city": "巴中市",
+      "population": "328.38165"
+    },
+    {
+      "city": "天水市",
+      "population": "326.25166"
+    },
+    {
+      "city": "遂宁市",
+      "population": "325.26167"
+    },
+    {
+      "city": "晋中市",
+      "population": "324.94168"
+    },
+    {
+      "city": "乐山市",
+      "population": "323.58169"
+    },
+    {
+      "city": "黔南州",
+      "population": "323.12170"
+    },
+    {
+      "city": "广安市",
+      "population": "320.55171"
+    },
+    {
+      "city": "蚌埠市",
+      "population": "316.4172"
+    },
+    {
+      "city": "通辽市",
+      "population": "313.92173"
+    },
+    {
+      "city": "锦州市",
+      "population": "312.65174"
+    },
+    {
+      "city": "中山市",
+      "population": "312.09175"
+    },
+    {
+      "city": "镇江市",
+      "population": "311.34176"
+    },
+    {
+      "city": "乌鲁木齐市",
+      "population": "311.03177"
+    },
+    {
+      "city": "铜仁地区",
+      "population": "309.24178"
+    },
+    {
+      "city": "钦州市",
+      "population": "307.97179"
+    },
+    {
+      "city": "忻州市",
+      "population": "306.75180"
+    },
+    {
+      "city": "朝阳市",
+      "population": "304.46181"
+    },
+    {
+      "city": "秦皇岛市",
+      "population": "298.76182"
+    },
+    {
+      "city": "河源市",
+      "population": "295.3183"
+    },
+    {
+      "city": "眉山市",
+      "population": "295.05184"
+    },
+    {
+      "city": "汕尾市",
+      "population": "293.57185"
+    },
+    {
+      "city": "大庆市",
+      "population": "290.45186"
+    },
+    {
+      "city": "湖州市",
+      "population": "289.35187"
+    },
+    {
+      "city": "梧州市",
+      "population": "288.22188"
+    },
+    {
+      "city": "松原市",
+      "population": "288.11189"
+    },
+    {
+      "city": "荆门市",
+      "population": "287.37190"
+    },
+    {
+      "city": "呼和浩特市",
+      "population": "286.66191"
+    },
+    {
+      "city": "六盘水市",
+      "population": "285.12192"
+    },
+    {
+      "city": "韶关市",
+      "population": "282.66193"
+    },
+    {
+      "city": "宁德市",
+      "population": "282.2194"
+    },
+    {
+      "city": "黔西南州",
+      "population": "280.59195"
+    },
+    {
+      "city": "威海市",
+      "population": "280.48196"
+    },
+    {
+      "city": "日照市",
+      "population": "280.11197"
+    },
+    {
+      "city": "牡丹江市",
+      "population": "279.87198"
+    },
+    {
+      "city": "莆田市",
+      "population": "277.85199"
+    },
+    {
+      "city": "铁岭市",
+      "population": "271.77200"
+    },
+    {
+      "city": "定西市",
+      "population": "269.86201"
+    },
+    {
+      "city": "楚雄州",
+      "population": "268.4202"
+    },
+    {
+      "city": "自贡市",
+      "population": "267.89203"
+    },
+    {
+      "city": "潮州市",
+      "population": "266.98204"
+    },
+    {
+      "city": "包头市",
+      "population": "265.04205"
+    },
+    {
+      "city": "南平市",
+      "population": "264.55206"
+    },
+    {
+      "city": "安康市",
+      "population": "262.99207"
+    },
+    {
+      "city": "葫芦岛市",
+      "population": "262.35208"
+    },
+    {
+      "city": "陇南市",
+      "population": "256.77209"
+    },
+    {
+      "city": "龙岩市",
+      "population": "255.95210"
+    },
+    {
+      "city": "佳木斯市",
+      "population": "255.21211"
+    },
+    {
+      "city": "呼伦贝尔市",
+      "population": "254.93212"
+    },
+    {
+      "city": "湘西州",
+      "population": "254.78213"
+    },
+    {
+      "city": "漯河市",
+      "population": "254.41214"
+    },
+    {
+      "city": "普洱市",
+      "population": "254.3215"
+    },
+    {
+      "city": "宣城市",
+      "population": "253.3216"
+    },
+    {
+      "city": "保山市",
+      "population": "250.6217"
+    },
+    {
+      "city": "三明市",
+      "population": "250.34218"
+    },
+    {
+      "city": "广元市",
+      "population": "248.41219"
+    },
+    {
+      "city": "伊犁州",
+      "population": "248.26220"
+    },
+    {
+      "city": "咸宁市",
+      "population": "246.26221"
+    },
+    {
+      "city": "丹东市",
+      "population": "244.47222"
+    },
+    {
+      "city": "临沧市",
+      "population": "243.223"
+    },
+    {
+      "city": "黄石市",
+      "population": "242.93224"
+    },
+    {
+      "city": "营口市",
+      "population": "242.85225"
+    },
+    {
+      "city": "阳江市",
+      "population": "242.18226"
+    },
+    {
+      "city": "阿克苏地区",
+      "population": "237.09227"
+    },
+    {
+      "city": "云浮市",
+      "population": "236.01228"
+    },
+    {
+      "city": "商洛市",
+      "population": "234.17229"
+    },
+    {
+      "city": "淮南市",
+      "population": "233.4230"
+    },
+    {
+      "city": "通化市",
+      "population": "232.52231"
+    },
+    {
+      "city": "玉溪市",
+      "population": "230.4232"
+    },
+    {
+      "city": "安顺市",
+      "population": "229.73233"
+    },
+    {
+      "city": "晋城市",
+      "population": "227.92234"
+    },
+    {
+      "city": "延边州",
+      "population": "227.16235"
+    },
+    {
+      "city": "芜湖市",
+      "population": "226.3236"
+    },
+    {
+      "city": "三门峡市",
+      "population": "223.39237"
+    },
+    {
+      "city": "庆阳市",
+      "population": "221.12238"
+    },
+    {
+      "city": "西宁市",
+      "population": "220.87239"
+    },
+    {
+      "city": "延安市",
+      "population": "218.7240"
+    },
+    {
+      "city": "随州市",
+      "population": "216.22241"
+    },
+    {
+      "city": "乌兰察布市",
+      "population": "214.36242"
+    },
+    {
+      "city": "抚顺市",
+      "population": "213.81243"
+    },
+    {
+      "city": "衢州市",
+      "population": "212.27244"
+    },
+    {
+      "city": "丽水市",
+      "population": "211.7245"
+    },
+    {
+      "city": "淮北市",
+      "population": "211.4246"
+    },
+    {
+      "city": "来宾市",
+      "population": "209.97247"
+    },
+    {
+      "city": "平凉市",
+      "population": "206.8248"
+    },
+    {
+      "city": "海口市",
+      "population": "204.62249"
+    },
+    {
+      "city": "东营市",
+      "population": "203.53250"
+    },
+    {
+      "city": "白城市",
+      "population": "203.31251"
+    },
+    {
+      "city": "和田地区",
+      "population": "201.44252"
+    },
+    {
+      "city": "崇左市",
+      "population": "199.43253"
+    },
+    {
+      "city": "银川市",
+      "population": "199.31254"
+    },
+    {
+      "city": "贺州市",
+      "population": "195.41255"
+    },
+    {
+      "city": "临夏州",
+      "population": "194.67256"
+    },
+    {
+      "city": "鄂尔多斯市",
+      "population": "194.07257"
+    },
+    {
+      "city": "鸡西市",
+      "population": "186.22258"
+    },
+    {
+      "city": "辽阳市",
+      "population": "185.88259"
+    },
+    {
+      "city": "萍乡市",
+      "population": "185.45260"
+    },
+    {
+      "city": "阜新市",
+      "population": "181.93261"
+    },
+    {
+      "city": "武威市",
+      "population": "181.51262"
+    },
+    {
+      "city": "朔州市",
+      "population": "171.49263"
+    },
+    {
+      "city": "本溪市",
+      "population": "170.95264"
+    },
+    {
+      "city": "白银市",
+      "population": "170.88265"
+    },
+    {
+      "city": "黑河市",
+      "population": "167.39266"
+    },
+    {
+      "city": "巴彦淖尔市",
+      "population": "166.99267"
+    },
+    {
+      "city": "兴安盟",
+      "population": "161.33268"
+    },
+    {
+      "city": "景德镇市",
+      "population": "158.75269"
+    },
+    {
+      "city": "鹤壁市",
+      "population": "156.91270"
+    },
+    {
+      "city": "珠海市",
+      "population": "156.02271"
+    },
+    {
+      "city": "北海市",
+      "population": "153.93272"
+    },
+    {
+      "city": "雅安市",
+      "population": "150.73273"
+    },
+    {
+      "city": "张家界市",
+      "population": "147.65274"
+    },
+    {
+      "city": "双鸭山市",
+      "population": "146.26275"
+    },
+    {
+      "city": "昌吉州",
+      "population": "142.86276"
+    },
+    {
+      "city": "池州市",
+      "population": "140.3277"
+    },
+    {
+      "city": "海东地区",
+      "population": "139.68278"
+    },
+    {
+      "city": "盘锦市",
+      "population": "139.25279"
+    },
+    {
+      "city": "阳泉市",
+      "population": "136.85280"
+    },
+    {
+      "city": "马鞍山市",
+      "population": "136.6281"
+    },
+    {
+      "city": "黄山市",
+      "population": "135.9282"
+    },
+    {
+      "city": "莱芜市",
+      "population": "129.85283"
+    },
+    {
+      "city": "白山市",
+      "population": "129.66284"
+    },
+    {
+      "city": "巴音郭楞州",
+      "population": "127.85285"
+    },
+    {
+      "city": "吴忠市",
+      "population": "127.38286"
+    },
+    {
+      "city": "丽江市",
+      "population": "124.5287"
+    },
+    {
+      "city": "固原市",
+      "population": "122.82288"
+    },
+    {
+      "city": "塔城地区",
+      "population": "121.92289"
+    },
+    {
+      "city": "攀枝花市",
+      "population": "121.41290"
+    },
+    {
+      "city": "德宏州",
+      "population": "121.1291"
+    },
+    {
+      "city": "张掖市",
+      "population": "119.95292"
+    },
+    {
+      "city": "辽源市",
+      "population": "117.66293"
+    },
+    {
+      "city": "伊春市",
+      "population": "114.81294"
+    },
+    {
+      "city": "新余市",
+      "population": "113.89295"
+    },
+    {
+      "city": "版纳州",
+      "population": "113.4296"
+    },
+    {
+      "city": "鹰潭市",
+      "population": "112.49297"
+    },
+    {
+      "city": "舟山市",
+      "population": "112.13298"
+    },
+    {
+      "city": "酒泉市",
+      "population": "109.59299"
+    },
+    {
+      "city": "甘孜州",
+      "population": "109.19300"
+    },
+    {
+      "city": "中卫市",
+      "population": "108.08301"
+    },
+    {
+      "city": "鹤岗市",
+      "population": "105.87302"
+    },
+    {
+      "city": "鄂州市",
+      "population": "104.87303"
+    },
+    {
+      "city": "锡林郭勒盟",
+      "population": "102.8304"
+    },
+    {
+      "city": "七台河市",
+      "population": "92.04305"
+    },
+    {
+      "city": "阿坝州",
+      "population": "89.87306"
+    },
+    {
+      "city": "防城港市",
+      "population": "86.69307"
+    },
+    {
+      "city": "铜川市",
+      "population": "83.44308"
+    },
+    {
+      "city": "石嘴山市",
+      "population": "72.55309"
+    },
+    {
+      "city": "铜陵市",
+      "population": "72.4310"
+    },
+    {
+      "city": "日喀则地区",
+      "population": "70.33311"
+    },
+    {
+      "city": "甘南州",
+      "population": "68.91312"
+    },
+    {
+      "city": "三亚市",
+      "population": "68.54313"
+    },
+    {
+      "city": "济源市",
+      "population": "67.57314"
+    },
+    {
+      "city": "昌都地区",
+      "population": "65.75315"
+    },
+    {
+      "city": "吐鲁番地区",
+      "population": "62.27316"
+    },
+    {
+      "city": "阿勒泰地区",
+      "population": "60.33317"
+    },
+    {
+      "city": "哈密地区",
+      "population": "57.24318"
+    },
+    {
+      "city": "拉萨市",
+      "population": "55.94319"
+    },
+    {
+      "city": "怒江州",
+      "population": "53.4320"
+    },
+    {
+      "city": "乌海市",
+      "population": "53.29321"
+    },
+    {
+      "city": "克孜勒苏州",
+      "population": "52.56322"
+    },
+    {
+      "city": "大兴安岭地区",
+      "population": "51.16323"
+    },
+    {
+      "city": "海西州",
+      "population": "48.93324"
+    },
+    {
+      "city": "金昌市",
+      "population": "46.41325"
+    },
+    {
+      "city": "那曲地区",
+      "population": "46.24326"
+    },
+    {
+      "city": "博尔塔拉州",
+      "population": "44.37327"
+    },
+    {
+      "city": "海南州",
+      "population": "44.17328"
+    },
+    {
+      "city": "迪庆州",
+      "population": "40.329"
+    },
+    {
+      "city": "克拉玛依市",
+      "population": "39.1330"
+    },
+    {
+      "city": "玉树州",
+      "population": "37.84331"
+    },
+    {
+      "city": "山南地区",
+      "population": "32.9332"
+    },
+    {
+      "city": "海北州",
+      "population": "27.33333"
+    },
+    {
+      "city": "黄南州",
+      "population": "25.67334"
+    },
+    {
+      "city": "嘉峪关市",
+      "population": "23.19335"
+    },
+    {
+      "city": "阿拉善盟",
+      "population": "23.13336"
+    },
+    {
+      "city": "杨凌示范区",
+      "population": "20.12337"
+    },
+    {
+      "city": "林芝地区",
+      "population": "19.51338"
+    },
+    {
+      "city": "果洛州",
+      "population": "18.17339"
+    }
+  ]
+}
