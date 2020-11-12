@@ -124,6 +124,10 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //户口所在地
       sitePopulation: CtiyD[0].population,
       //所在地人口（万人）
+      siteLng: CtiyD[0].lng,
+      //所在地经度
+      siteLat: CtiyD[0].lat,
+      //所在地纬度
       height: `${Math.ceil(Math.random() * 40) + 150}`,
       //身高
       bloodType:"A",
