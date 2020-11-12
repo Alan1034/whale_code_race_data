@@ -56,6 +56,27 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       }
       return val
     }
+    //随机所属研发中心
+    const employType = ()=>{
+      let val ="开发"
+      switch (i % 4) {
+        case 1:
+          val = "开发"
+          break;
+        case 2:
+          val = "测试"
+          break;
+        case 3:
+          val = "设计"
+          break;
+        case 4:
+          val = "产品"
+          break;
+        default:
+          break;
+      }
+      return val
+    }
     //按人口分布随机出户口所在地
     const ram = Math.floor(Math.random() * sum)
     let sumPersonal = 0
@@ -90,7 +111,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //年龄
       gender: i%2?"M":"F",
       //M:男 F:女
-      employType: "职员",
+      employType: employType(),
       //员工类型
       belongTo: "浩鲸云计算科技股份有限公司",
       //公司归属
