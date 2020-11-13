@@ -17,7 +17,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
   // console.log(sum)
   //员工列表
   const staffList=[]
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 10000; i++) {
     
     let age = Math.abs(Math.floor(Math.random() * 50))
     if (age<20) {
