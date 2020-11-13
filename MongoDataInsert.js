@@ -18,11 +18,12 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
   //员工列表
   const staffList=[]
   for (let i = 0; i < 20; i++) {
-    const join = Math.abs(Math.floor(Math.random() * 20))
+    
     let age = Math.abs(Math.floor(Math.random() * 50))
     if (age<20) {
       age = age+20
     }
+    const join = Math.abs(Math.ceil(Math.random() * (age - 19)))
     //随机出学历
     const degree = ()=>{
       let val="C"
@@ -104,11 +105,11 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //身份证号
       birthDate: `${2021-age}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,                                
       //生日日期
-      joinDate: `20${Math.abs(Math.floor(Math.random() * 20))}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,   
+      joinDate: `${2021 -join}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,   
       //入职时间
-      fullMemberDate: `20${join}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,   
+      fullMemberDate: `${2021-join}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,   
       //转正时间
-      divisionAge: 21 - join,
+      divisionAge: join,
       //司龄
       age:age,
       //年龄
