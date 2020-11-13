@@ -19,7 +19,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
   const staffList=[]
   for (let i = 0; i < 20; i++) {
     const join = Math.abs(Math.floor(Math.random() * 20))
-    const age = Math.abs(Math.floor(Math.random() * 70 - 20))
+    const age = Math.abs(Math.floor(Math.random() * 60 - 20))
     //随机出学历
     const degree = ()=>{
       let val="C"
