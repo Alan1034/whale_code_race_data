@@ -19,7 +19,10 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
   const staffList=[]
   for (let i = 0; i < 20; i++) {
     const join = Math.abs(Math.floor(Math.random() * 20))
-    const age = Math.abs(Math.floor(Math.random() * 60 - 20))
+    let age = Math.abs(Math.floor(Math.random() * 50))
+    if (age<20) {
+      age = age+20
+    }
     //随机出学历
     const degree = ()=>{
       let val="C"
@@ -99,7 +102,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //邮箱
       idCard: "3213029851081",                              
       //身份证号
-      birthDate: `19${age}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,                                
+      birthDate: `${2021-age}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,                                
       //生日日期
       joinDate: `20${Math.abs(Math.floor(Math.random() * 20))}/${Math.ceil(Math.random() * 12)}/${Math.ceil(Math.random() * 30)}`,   
       //入职时间
@@ -107,7 +110,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //转正时间
       divisionAge: 21 - join,
       //司龄
-      age: 2021 - 1990 + age,
+      age:age,
       //年龄
       gender: i%2?"M":"F",
       //M:男 F:女
@@ -123,7 +126,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //A.社招、B.毕业生
       degree: degree(),
       //A博士、B硕士、C本科、D专科、E中专、F成教、G其他
-      graduationDate: `20${2021 - 1900 + age+19}/6/20` ,
+      graduationDate: `${2021 - age+19}/6/20` ,
       //毕业时间
       telephone: "15062266353" ,
       //联系方式
@@ -139,7 +142,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //A博士、B硕士、C学士、D其它
       cetLevel:"A",
       //A四级、B六级、C八级、D无
-      startWorkTime: `20${2021 - 1900 + age + 19}/6/20`,
+      startWorkTime: `${2021 - age + 19}/6/20`,
       //参与工作时间
       accountSite: CtiyD[0].city,
       //户口所在地
