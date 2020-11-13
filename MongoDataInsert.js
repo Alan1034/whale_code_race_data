@@ -107,7 +107,7 @@ MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, as
       //转正时间
       divisionAge: 21 - join,
       //司龄
-      age: 2021 - 1900 + age,
+      age: 2021 - 1990 + age,
       //年龄
       gender: i%2?"M":"F",
       //M:男 F:女
