@@ -1,5 +1,19 @@
 {
+    "name": "mongodatainsert",
+    "version": "0.0.0",
+  "scripts": {
+    "start": "nodemon ./MongoDataInsert.js"
+  },
   "dependencies": {
     "mongodb": "^3.6.2"
+  },
+  "bin": "./MongoDataInsert.js",
+  "pkg": {
+    "scripts": [
+      "build/**/*.js"
+    ],
+    "assets": [
+      "views/**/*"
+    ]
   }
 }
